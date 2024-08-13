@@ -1,7 +1,7 @@
 import React, { useContext, useState } from 'react';
 
 import './Signup.css';
-import { Route } from 'react-router-dom/cjs/react-router-dom.min';
+import { Route } from 'react-router-dom';
 import FirstStep from '../steps-signup/FirstStep';
 import SecondStep from '../steps-signup/SecondStep';
 import ThirdStep from '../steps-signup/ThirdStep';
